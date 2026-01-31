@@ -80,11 +80,11 @@ const lessonFormUrl = {
           </div>
           
           <div className="bg-white rounded-lg p-4 inline-block">
-            <img src="/src/assets/ninjavsrobo.png" 
+            {/* <img src="/src/assets/ninjavsrobo.png" 
             alt="AI Checkpoint"
             className="w-64 h-auto rounded-lg">
               
-            </img>
+            </img> */}
           </div>
         </div>
       </div>
@@ -283,11 +283,11 @@ const LessonSelectPage = () => (
           </div>
 
           <div className="flex-1 flex items-center justify-center">
-            <img
+            {/* <img
               src="/src/assets/waterslide.png"
               alt="AI Checkpoint"
               className="w-80 h-auto rounded-lg"
-            />
+            /> */}
           </div>
 
           <div className="w-48 h-48 bg-blue-800 rounded-lg flex items-center justify-center">
