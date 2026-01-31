@@ -1,5 +1,10 @@
 import React, { useState } from 'react';
 import { ChevronRight, Home, BookOpen } from 'lucide-react';
+import ninjaVsRobo from './assets/ninjavsrobo.png';
+import waterslide from './assets/waterslide.png';
+import handshake from './assets/handshake.png';
+import runningbot from './assets/runningbot.png';
+
 
 const SenseiCheckpoint = () => {
   const [currentPage, setCurrentPage] = useState('home');
@@ -80,11 +85,12 @@ const lessonFormUrl = {
           </div>
           
           <div className="bg-white rounded-lg p-4 inline-block">
-            {/* <img src="/src/assets/ninjavsrobo.png" 
-            alt="AI Checkpoint"
-            className="w-64 h-auto rounded-lg">
-              
-            </img> */}
+            <img
+              src={ninjaVsRobo}
+              alt="Ninja vs Robo"
+              className="w-80 h-auto rounded-lg"
+            />
+
           </div>
         </div>
       </div>
@@ -283,11 +289,12 @@ const LessonSelectPage = () => (
           </div>
 
           <div className="flex-1 flex items-center justify-center">
-            {/* <img
-              src="/src/assets/waterslide.png"
-              alt="AI Checkpoint"
-              className="w-80 h-auto rounded-lg"
-            /> */}
+            <img
+             src={waterslide}
+            alt="Water slide"
+            className="w-80 h-auto rounded-lg"
+              />
+
           </div>
 
           <div className="w-48 h-48 bg-blue-800 rounded-lg flex items-center justify-center">
