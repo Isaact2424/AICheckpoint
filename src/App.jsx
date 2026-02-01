@@ -253,7 +253,7 @@ const LessonSelectPage = () => (
                 key={lesson.id}
                 onClick={() => {
                 setSelectedLessonId(lesson.id);
-                setCurrentPage('lesson');
+                setCurrentPage('loading');
                 }}
 
                 className={`${lesson.color} ${lesson.textColor} px-6 py-3 rounded-full font-bold text-lg hover:scale-110 transition-transform`}
