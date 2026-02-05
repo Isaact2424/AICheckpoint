@@ -15,6 +15,7 @@ const SenseiCheckpoint = () => {
 const lessonFormUrl = {
   "1-1": "https://docs.google.com/forms/d/e/1FAIpQLSdihua3M_Gg-dT959UJ4H1Jue3PIwQd75wENSwlFXlZulN98A/viewform?embedded=true",
   "1-2": "https://docs.google.com/forms/d/e/1FAIpQLSe1mTgON-zjX5ip-ZHJOQxmkNZF64JxUbiu3STCOmogliZuow/viewform?embedded=true",
+  "1-3": "https://docs.google.com/forms/d/e/1FAIpQLSdegAby_5L40bDELzcNto-rnf73YZ5axUVMqF2w35bxngC5jQ/viewform?embedded=true",
   // add more as you make them
 };
 
