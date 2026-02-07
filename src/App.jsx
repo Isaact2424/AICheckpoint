@@ -16,6 +16,9 @@ const lessonFormUrl = {
   "1-1": "https://docs.google.com/forms/d/e/1FAIpQLSdihua3M_Gg-dT959UJ4H1Jue3PIwQd75wENSwlFXlZulN98A/viewform?embedded=true",
   "1-2": "https://docs.google.com/forms/d/e/1FAIpQLSe1mTgON-zjX5ip-ZHJOQxmkNZF64JxUbiu3STCOmogliZuow/viewform?embedded=true",
   "1-3": "https://docs.google.com/forms/d/e/1FAIpQLSdegAby_5L40bDELzcNto-rnf73YZ5axUVMqF2w35bxngC5jQ/viewform?embedded=true",
+  "1-4": "https://docs.google.com/forms/d/e/1FAIpQLSdpw1V-osZxsFHu2vpQegCW6Xq6Ke2sFN98jQlADc6qUrCnag/viewform?embedded=true",
+  "1-5": "https://docs.google.com/forms/d/e/1FAIpQLSdRD5VieJZGxbKsR7rlUyAAOSqcpEeIErtANoU2I_sS_7rbWw/viewform?embedded=true",
+  "1-6": "https://docs.google.com/forms/d/e/1FAIpQLSfr_msNMgII90_xLdaMjaYhxtsLmE38oxXGvO2wLHEqcMxEVA/viewform?embedded=true",
   // add more as you make them
 };
 
